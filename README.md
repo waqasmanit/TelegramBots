@@ -1,4 +1,4 @@
-# Collection of TelegramBots made with Node.js
+# Collection of Telegram Bots made with Node.js
 # To run any  bots listed under bots folder , follow the following steps:
 1) Clone this repository
 2) Run commond "npm install" from terminal.
