@@ -4,7 +4,7 @@
 2) Run commond "npm install" from terminal.
 3) Replace process.env.BOT_TOKEN  in index.js with your bot TOKEN provided by Bot Father
 4) Replace process.env.PORT in index with port no.
-5) Now run "npm start" for running application.
+5) Now run "npm start" for running application.ensure that you are in desired bot folder
 6) I used ngrok To Tunnel / Forward Connection i.e. brinnging local host over internet.
 
 A good article for Telegram Bot creation using Node.js
